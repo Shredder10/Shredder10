@@ -1,6 +1,7 @@
 [![Telegram Badge](https://img.shields.io/badge/Telegram-27A5E4?logo=telegram&logoColor=fff&style=for-the-badge)](https://t.me/SergeBol)
 
 - Master's degree in IT, Kemerovo State University (KemSU) || Магистр в сфере информационных технологий, Кемеровский государственный университет (КемГУ)
+- Completed additional education course "Neural networks' developer" || Зваершил курс профессиональной переподготовки по программе "Разработчик нейросетей"
 - Frontend-developer, KemSU (for 3,5 years) || Фронтэнд-разработчик, КемГУ (стаж - 3,5 года)
 - Developed || Реализовано:
   - Achievement's system for students, frontend application || Система достижений студентов, фротнэнд-приложение ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-rounded&logo=react&logoColor=%2361DAFB) + ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-rounded&logo=css3&logoColor=white)
